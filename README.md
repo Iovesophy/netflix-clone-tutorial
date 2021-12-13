@@ -1,6 +1,8 @@
-# react-template
+# netflix-clone-tutorial
 
-https://user-images.githubusercontent.com/15680172/135788557-5cdc0088-25c0-4df4-8461-aaf15b458bab.mov
+source: 【React+TypeScript】Netflixのクローンを作るチュートリアル
+
+https://zenn.dev/gunners6518/books/4c4672f32dd100
 
 ## Attention notice
 If the configured s3 setting already exists , this script change the configuration your environment .
